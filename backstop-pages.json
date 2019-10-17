@@ -1,0 +1,22 @@
+{
+  "scenarios": [
+    {
+      "label": "Planet4 Finland act page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/toimi/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    },
+    {
+      "label": "Planet4 Finland explore page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/mita-teemme/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    },
+    {
+      "label": "Planet4 Finland privacy and cookies page",
+      "url": "https://APP_HOSTNAME/APP_HOSTPATH/privacy-and-cookies/",
+      "delay": 3000,
+      "misMatchThreshold": 0.5
+    }
+  ]
+}
