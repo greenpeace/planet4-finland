@@ -3,7 +3,8 @@
 	"description": "Greenpeace P4 Finland",
 	"license": "MIT",
 	"require": {
-		"greenpeace/planet4-child-theme-finland" : "0.1"
+		"greenpeace/planet4-child-theme-finland" : "dev-develop",
+		"greenpeace/planet4-gpnordic-plugin-portrait" : "dev-develop"
 	},
 	"scripts": {
 		"core:language": "wp language core install fi; wp language core activate fi",
