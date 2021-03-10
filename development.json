@@ -1,5 +1,7 @@
 {
     "require": {
+        "greenpeace/planet4-gpnordic-plugin-gutenberg-blocks": "dev-develop",
+        "greenpeace/planet4-gpnordic-plugin-portrait" : "dev-develop",
         "greenpeace/planet4-gpnordic-plugin-leads": "dev-develop"
     }
 }
