@@ -3,7 +3,6 @@
     "greenpeace/planet4-child-theme-nordic": "dev-release/v1.47.16",
     "greenpeace/planet4-gpnordic-plugin-leads": "dev-release/v1.1.18",
     "wpackagist-plugin/beaf-before-and-after-gallery": "4.5.*",
-    "plugins/gravityformszapier": "*",
-    "greenpeace/planet4-master-theme": "dev-fix-cf-cache-domain"
+    "plugins/gravityformszapier": "*"
   }
 }
